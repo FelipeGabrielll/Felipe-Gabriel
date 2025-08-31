@@ -1,7 +1,7 @@
 # Felipe-Gabriel
 Eaeee, seja bem vindo ao meu github!!👾
 
-Sou estudante de **engenharia de software**, 1 semestre, sou iniciante na área de programação, mas estou todos os dias me dedicando cada vez mais para sempre melhorar e aprender coisas novas.
+Sou estudante de **engenharia de software**, 2 semestre, sou iniciante na área de programação, mas estou todos os dias me dedicando cada vez mais para sempre melhorar e aprender coisas novas.
 
 ⚫️ No momento estou muito interessado na área web, front, back e fullstack.
 
