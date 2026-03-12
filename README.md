@@ -1,20 +1,42 @@
-# Felipe-Gabriel
-Eaeee, seja bem vindo ao meu github!!👾
+# Olá, eu sou o Felipe Gabriel! 👋
 
-Sou estudante de **engenharia de software**, 2 semestre, sou iniciante na área de programação, mas estou todos os dias me dedicando cada vez mais para sempre melhorar e aprender coisas novas.
+![Banner](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Software%20Engineer%20Student&fontSize=50)
 
-⚫️ No momento estou muito interessado na área web, front, back e fullstack.
+### 👨‍💻 Sobre Mim
+Atualmente no **2º semestre de Engenharia de Software**, mergulhando de cabeça no ecossistema Web. Sou um entusiasta da tecnologia que acredita no poder da colaboração e do aprendizado contínuo.
 
-⚪️ Gosto muito de trabalhar em **equipe**, principalmente na área da computação.
+- 🎯 **Foco atual:** Desenvolvimento Web (Front-end & Back-end).
+- 🤝 **Soft Skills:** Trabalho em equipe, comunicação e resolução de problemas.
+- 📚 **Aprendendo:** Construindo as bases sólidas em lógica, algoritmos e arquitetura.
 
-⚫️ Não tenho projetos ainda, mas logo logo estarei começando.
+---
 
----------
+### 🛠️ Tecnologias e Ferramentas
+Aqui estão as ferramentas que utilizo no meu dia a dia de estudos:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipegabrielll&show_icons=true&theme=dark)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegabrielll&show_icons&theme=dark)](https://github.com/leomunhoz1/github-readme-stats)
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-⚪️ **Contato:**
+---
 
-   [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="48"/>](https://www.linkedin.com/in/felipegabrielcc/)
-   [<img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="48"/>](fg0139784@gmail.com)
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipegabrielll&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegabrielll&layout=compact&langs_count=7&theme=dark" />
+</div>
+
+---
+
+### 📫 Vamos nos conectar?
+<div align="left">
+  <a href="https://www.linkedin.com/in/felipegabrielcc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fg0139784@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
