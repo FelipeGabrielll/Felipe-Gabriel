@@ -1,7 +1,5 @@
 # Olá, eu sou o Felipe Gabriel! 👋
 
-![Banner](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Software%20Engineer%20Student&fontSize=50)
-
 ### 👨‍💻 Sobre Mim
 Atualmente no **2º semestre de Engenharia de Software**, mergulhando de cabeça no ecossistema Web. Sou um entusiasta da tecnologia que acredita no poder da colaboração e do aprendizado contínuo.
 
